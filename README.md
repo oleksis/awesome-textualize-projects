@@ -1,3 +1,6 @@
+<!--lint disable awesome-github-->
+<!--lint disable awesome-git-repo-age-->
+<!--lint disable double-link-->
 <p align="center">
   <br />
     <img src="awesome-textualize.png" width="150"/>
@@ -56,7 +59,7 @@ Textualize is responsible for creating frameworks / projects like:
 - [Markdown Browser](https://github.com/willmcgugan/textual-markdown) - Markdown in the terminal.
 - [Kupo](https://github.com/darrenburns/kupo) - A terminal file browser, kupo!
 - [Dunk](https://github.com/darrenburns/dunk) - Prettier git diffs in the terminal 🎨.
-- [Shira](https://github.com/darrenburns/shira) - the python inspector 🔍.
+- [Shira](https://github.com/darrenburns/shira) - The python inspector 🔍.
 - [Autocomplete](https://github.com/darrenburns/textual-autocomplete) - Easily add autocomplete dropdowns to your Textual apps.
 - [Rich Pixels](https://github.com/darrenburns/rich-pixels) - A Rich-compatible library for writing pixel images and ASCII art to the terminal.
 - [Astview](https://github.com/davep/textual-astview) - A Textual-based Python AST viewing widget library and application.
