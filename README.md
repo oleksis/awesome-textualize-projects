@@ -1,14 +1,12 @@
-<!--lint disable awesome-github-->
 <!--lint disable awesome-git-repo-age-->
-<!--lint disable double-link-->
 <p align="center">
   <br />
-    <img src="awesome-textualize.png" width="150"/>
+    <img src="awesome-textualize.png" width="150" alt="awesome-textualize-projects"/>
   <br />
 </p>
 
 # Awesome Textualize Projects [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [<!--lint ignore no-dead-urls-->![GitHub Actions status | oleksis/awesome-textualize-projects](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml/badge.svg)](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml)
-
+<!--lint ignore double-link-->
 > A curated list of awesome projects related to [Textualize](https://www.textualize.io/).
 
 Textualize is responsible for creating frameworks / projects like:
@@ -16,7 +14,7 @@ Textualize is responsible for creating frameworks / projects like:
 - [Textual](https://github.com/Textualize/textual):
     a TUI (Text User Interface) framework for Python inspired by modern web development.
 - [Rich](https://github.com/Textualize/rich):
-    a Python library for rich text and beautiful formatting in the terminal.
+    a Python library for rich text and beautiful formatting in the terminal.<!--lint ignore double-link-->
 - [Rich CLI](https://github.com/Textualize/rich-cli):
     a command line toolbox for fancy output in the terminal
 
@@ -31,7 +29,7 @@ Textualize is responsible for creating frameworks / projects like:
 - [Tutorials](#tutorials)
 
 ## Official Resources
-
+<!--lint ignore double-link-->
 - [Official Site](https://www.textualize.io/)
 - [Official Textualize organization](https://github.com/Textualize)
 - [Textualize Blog Announcement](https://www.textualize.io/blog)
@@ -47,7 +45,7 @@ Textualize is responsible for creating frameworks / projects like:
 - [Gallery](https://www.textualize.io/rich/gallery)
 
 ### Rich CLI
-
+<!--lint ignore double-link-->
 - [Rich CLI Repository](https://github.com/Textualize/rich-cli) - Rich from the command prompt. Syntax highlight many file-types, with special support for markdown, json, and CSV tables.
 
 ## Community
