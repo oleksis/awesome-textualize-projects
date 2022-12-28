@@ -63,6 +63,7 @@ Textualize is responsible for creating frameworks / projects like:
 - [Astview](https://github.com/davep/textual-astview) - A Textual-based Python AST viewing widget library and application.
 - [FivePyFive](https://github.com/davep/fivepyfive) - An annoying puzzle for the terminal; built with Textual.
 - [HumBLE Explorer](https://github.com/koenvervloesem/humble-explorer) - A cross-platform, command-line and human-friendly Bluetooth Low Energy Scanner built with Textual.
+- [Select](https://github.com/mitosch/textual-select) - A simple drop-down (select) for Textual with an optional search functionality.
 
 ## Tutorials
 
