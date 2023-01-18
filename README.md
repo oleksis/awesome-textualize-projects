@@ -5,7 +5,8 @@
   <br />
 </p>
 
-# Awesome Textualize Projects [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [<!--lint ignore no-dead-urls-->![GitHub Actions status | oleksis/awesome-textualize-projects](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml/badge.svg)](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml)
+# Awesome Textualize Projects
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [<!--lint ignore no-dead-urls-->![GitHub Actions status | oleksis/awesome-textualize-projects](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml/badge.svg)](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml)
 
 > A curated list of awesome projects related to [Textualize].
 
@@ -64,6 +65,7 @@ Textualize is responsible for creating frameworks / projects like:
 - [FivePyFive](https://github.com/davep/fivepyfive) - An annoying puzzle for the terminal; built with Textual.
 - [HumBLE Explorer](https://github.com/koenvervloesem/humble-explorer) - A cross-platform, command-line and human-friendly Bluetooth Low Energy Scanner built with Textual.
 - [Select](https://github.com/mitosch/textual-select) - A simple drop-down (select) for Textual with an optional search functionality.
+- [Imageview](https://github.com/adamviola/textual-imageview) - A simple terminal-based image viewer.
 
 ## Tutorials
 
