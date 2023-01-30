@@ -66,6 +66,7 @@ Textualize is responsible for creating frameworks / projects like:
 - [HumBLE Explorer](https://github.com/koenvervloesem/humble-explorer) - A cross-platform, command-line and human-friendly Bluetooth Low Energy Scanner built with Textual.
 - [Select](https://github.com/mitosch/textual-select) - A simple drop-down (select) for Textual with an optional search functionality.
 - [Imageview](https://github.com/adamviola/textual-imageview) - A simple terminal-based image viewer.
+- [Terminal](https://github.com/mitosch/textual-terminal) - A terminal emulator widget for Textual.
 
 ## Tutorials
 
