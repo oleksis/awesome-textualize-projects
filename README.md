@@ -63,6 +63,7 @@ Textualize is responsible for creating frameworks / projects like:
 - [Rich Pixels](https://github.com/darrenburns/rich-pixels) - A Rich-compatible library for writing pixel images and ASCII art to the terminal.
 - [Astview](https://github.com/davep/textual-astview) - A Textual-based Python AST viewing widget library and application.
 - [FivePyFive](https://github.com/davep/fivepyfive) - An annoying puzzle for the terminal; built with Textual.
+- [Canvas](https://github.com/davep/textual-canvas) - A simple character-based canvas widget for use with Textual.
 - [HumBLE Explorer](https://github.com/koenvervloesem/humble-explorer) - A cross-platform, command-line and human-friendly Bluetooth Low Energy Scanner built with Textual.
 - [Select](https://github.com/mitosch/textual-select) - A simple drop-down (select) for Textual with an optional search functionality.
 - [Imageview](https://github.com/adamviola/textual-imageview) - A simple terminal-based image viewer.
