@@ -74,6 +74,8 @@ Textualize is responsible for creating frameworks / projects like:
 - [Datepicker](https://github.com/mitosch/textual-datepicker) - A datepicker for textual.
 - [Frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal.
 - [Pain](https://github.com/1j01/textual-paint) - 🎨 MS Paint.<!--lint ignore no-repeat-punctuation-->.<!--lint ignore no-repeat-punctuation-->. in your terminal.
+- [Conways Game of Life](https://github.com/thomascrha/textual-game-of-life) -  A implementation of Conway's game of life (cellular automata) in the terminal using textual.
+
 
 ## Tutorials
 
