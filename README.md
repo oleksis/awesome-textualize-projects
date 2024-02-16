@@ -86,6 +86,8 @@ Textualize is responsible for creating frameworks / projects like:
 - [Tinboard](https://pypi.org/project/tinboard/) - A Pinboard client for the terminal.
 - [Harlequin](https://pypi.org/project/harlequin/) - The SQL IDE for Your Terminal.
 - [Toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
+- [Conways Game of Life](https://github.com/thomascrha/textual-game-of-life) -  A implementation of Conway's game of life (cellular automata) in the terminal using textual.
+
 
 ## Tutorials
 
