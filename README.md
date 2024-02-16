@@ -74,6 +74,18 @@ Textualize is responsible for creating frameworks / projects like:
 - [Datepicker](https://github.com/mitosch/textual-datepicker) - A datepicker for textual.
 - [Frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal.
 - [Pain](https://github.com/1j01/textual-paint) - 🎨 MS Paint.<!--lint ignore no-repeat-punctuation-->.<!--lint ignore no-repeat-punctuation-->. in your terminal.
+- [RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or overwritten files from your terminal.
+- [Logmerger](https://github.com/ptmcg/logmerger) - TUI utility to view multiple log files with merged timeline.
+- [Palettepal](https://github.com/cdelker/palettepal) - Terminal-Based Color Editor and Palette Generator.
+- [Usolitaire](https://github.com/eliasdorneles/usolitaire) - Solitaire in your terminal, powered by Unicode.
+- [Upiano](https://github.com/eliasdorneles/upiano) - A Piano in your terminal.
+- [textual-plotext](https://pypi.org/project/textual-plotext/) - A Textual widget wrapper for the Plotext plotting library.
+- [Textual Query Sandbox](https://pypi.org/project/textual-query-sandbox/) - A simple tool for displaying terminal dimensions.
+- [Elia](https://github.com/darrenburns/elia) -  A terminal ChatGPT client built with Textual.
+- [SSHaMan](https://github.com/cornyhorse/sshaman) - SSH Management.
+- [Tinboard](https://pypi.org/project/tinboard/) - A Pinboard client for the terminal.
+- [Harlequin](https://pypi.org/project/harlequin/) - The SQL IDE for Your Terminal.
+- [Toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 
 ## Tutorials
 
