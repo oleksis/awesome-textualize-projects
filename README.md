@@ -94,6 +94,7 @@ Textualize is responsible for creating frameworks / projects like:
 ## Tutorials
 
 - Welcome to the [Textual Tutorial](https://textual.textualize.io/tutorial/)!
+- [Textual: The Definitive Guide](https://dev.to/wiseai/textual-the-definitive-guide-part-1-1i0p) - A tutorial from dev.to (DEV Community).
 
 > Please don't hesitate to make a PR if you have more resources to share. Check out [contributing.md](contributing.md) for more information.
 
