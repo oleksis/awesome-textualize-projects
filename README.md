@@ -69,6 +69,7 @@ Textualize is responsible for creating frameworks / projects like:
 - [Imageview](https://github.com/adamviola/textual-imageview) - A simple terminal-based image viewer.
 - [Terminal](https://github.com/mitosch/textual-terminal) - A terminal emulator widget for Textual.
 - [Jtree](https://github.com/oleksis/jtree) - A command line interface (CLI) for displaying JavaScript Object Notation (JSON) in a tree view.
+- [NetVizForx-CLI](https://github.com/QuantumTechCoder/NetVizForx-CLI) - Multi-tool networking kit for beginners, in the terminal.
 - [NoteSH](https://github.com/cvaniak/notesh) - A fully functional sticky notes App in your Terminal.
 - [Fspicker](https://github.com/davep/textual-fspicker) - A Textual widget library for picking things in the filesystem.
 - [Datepicker](https://github.com/mitosch/textual-datepicker) - A datepicker for textual.
